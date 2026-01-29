@@ -6,9 +6,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#3490dc',
-        secondary: '#ffed4a',
-        accent: '#e3342f',
+        'azul-500': '#3490dc',
+        'azul-600': '#0878A1',
+        'ciano-500': '#7DE0F2',
+        'vermelho-500': '#DE350B',
+        'amarelo-500': '#FFAB00',
+        'verde-500': '#36B37E',
+        'secondary': '#ffed4a',
+        'accent': '#e3342f',
       },
       fontFamily: {
         roboto: ['Roboto-Regular'], 
