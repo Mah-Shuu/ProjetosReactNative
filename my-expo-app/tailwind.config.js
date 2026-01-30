@@ -12,8 +12,12 @@ module.exports = {
         'vermelho-500': '#DE350B',
         'amarelo-500': '#FFAB00',
         'verde-500': '#36B37E',
-        'secondary': '#ffed4a',
-        'accent': '#e3342f',
+        'cinza-100': '#F4F5F7',
+        'cinza-200': '#D6D7DB',
+        'cinza-500': '#A5ADBA',
+        'cinza-azul-800': '#427486',
+        'cinza-azul-900': '#07394B',
+
       },
       fontFamily: {
         roboto: ['Roboto-Regular'], 
